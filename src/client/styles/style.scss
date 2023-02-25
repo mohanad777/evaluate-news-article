@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: rgb(242, 242, 242);
+}
+
+
+
+form{
+     padding: 10px 20px;
+     height: 50vh;
+     background-color: white;
+     box-shadow: 2px 4px 5px #444;
+}
+label{
+    display:block;
+    font-size: 27px;
+}
+
+input{
+    display:block;
+    height: 60px;
+    width: 320px;
+    background:#bdd3d8;
+    color: #aaa58d;
+    font-size: 20px;
+
+    border: none;
+}
+
+button{
+    display:block;
+    margin-top: 8px;
+    width: 250px;
+    height: 45px;
+    font-size: 20px;
+    border: none;
+    box-shadow: 2px 4px 5px #444;
+}
